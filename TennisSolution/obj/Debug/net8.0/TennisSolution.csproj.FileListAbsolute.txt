@@ -1,0 +1,15 @@
+C:\Github\Cegeka\TennisKata\TennisSolution\bin\Debug\net8.0\TennisSolution.exe
+C:\Github\Cegeka\TennisKata\TennisSolution\bin\Debug\net8.0\TennisSolution.deps.json
+C:\Github\Cegeka\TennisKata\TennisSolution\bin\Debug\net8.0\TennisSolution.runtimeconfig.json
+C:\Github\Cegeka\TennisKata\TennisSolution\bin\Debug\net8.0\TennisSolution.dll
+C:\Github\Cegeka\TennisKata\TennisSolution\bin\Debug\net8.0\TennisSolution.pdb
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.AssemblyInfoInputs.cache
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.AssemblyInfo.cs
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.csproj.CoreCompileInputs.cache
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.sourcelink.json
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.dll
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\refint\TennisSolution.dll
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.pdb
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\TennisSolution.genruntimeconfig.cache
+C:\Github\Cegeka\TennisKata\TennisSolution\obj\Debug\net8.0\ref\TennisSolution.dll
